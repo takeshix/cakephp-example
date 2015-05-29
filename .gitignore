@@ -1,0 +1,7 @@
+# Added from https://raw.githubusercontent.com/github/gitignore/master/CakePHP.gitignore
+/tmp/logs/*
+/app/tmp/*
+/app/Config/email.php
+/app/Config/database.php
+/app/Plugin
+/Vendor
